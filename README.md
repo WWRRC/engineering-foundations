@@ -13,3 +13,6 @@ This website acts as a personal and public hub for those in engineering programs
 -Pictures of completed projects
 
 -etc.
+
+## Principles of Engineering (POE) breakdown
+Principles of Engineering, or POE, is the engineering class offered to many schools through the Project Lead the Way (PLTW) program. It focuses on structural and mechanical aspects of engineering, teaching the basic guidelines of simple and complex machines. Thus, _formulas_.
