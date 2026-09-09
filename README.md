@@ -3,4 +3,5 @@ This website acts as a personal and public hub for those in engineering programs
 
 ## Topics and references that will be available
 -Formulas
+
 -Simple and complex machines
