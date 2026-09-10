@@ -44,4 +44,4 @@ AMA = Force of resistance divided by force of effort &rarr; F<sub>resistance</su
 Ideal Effort Force = Multiply the load force by the load distance, then divide by effort distance &rarr; (F<sub>resistance</sub>&middot;D<sub>resistance</sub>)/D<sub>effort</sub>
 
 ## Wheel And Axle
-![Wheel And Axle](wheel%20and%20axle.png)
+![Wheel And Axle](wheel%20and%20axle.jpg)
