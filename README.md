@@ -8,7 +8,7 @@
 [Third Class Lever](#third-class-levers)
 
 ## First Class Levers:
-![First Class Lever](1st%20class%20lever)
+![First Class Lever](1st%20class%20lever.png)
 
 (_Formulas:_)
 
