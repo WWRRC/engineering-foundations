@@ -38,3 +38,4 @@ IMA=Effort distance divided by resistance distance-->D<sub>effort</sub>/D<sub>re
 
 AMA=Force of resistance divided by force of effort-->F<sub>resistance</sub>/F<sub>effort</sub>
 
+Ideal Effort Force=Multiply load force by distance from fulcrum to load and then divide by distance from fulcrum to effort force-->(F<sub>resistance</sub>*D<sub>resistance</sub>)/D<sub>effort</sub>
