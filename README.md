@@ -27,3 +27,7 @@ AMA=Force of resistance divided by force of effort-->F<sub>resistance</sub>/F<su
 
 ## Third Class Levers:
 ![Third Class Lever](3rd%20class%20lever.png)
+
+(_Formulas:_)
+
+IMA=
