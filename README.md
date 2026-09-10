@@ -31,4 +31,5 @@ AMA=Force of resistance divided by force of effort-->F<sub>resistance</sub>/F<su
 (_Formulas:_)
 
 IMA=Effort distance divided by resistance distance-->D<sub>effort</sub>/D<sub>resistance</sub>
+
 AMA=Force of resistance divided by force of effort-->F<sub>resistance</sub>/F<sub>effort</sub>
