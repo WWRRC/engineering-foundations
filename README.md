@@ -1,4 +1,5 @@
 # POE Reference Sheet
+To search internally: ctrl+f (windows), cmd+f (mac)
 
 ## Anchor Links:
 [First Class Lever](#first-class-levers)
@@ -38,4 +39,4 @@ IMA=Effort distance divided by resistance distance-->D<sub>effort</sub>/D<sub>re
 
 AMA=Force of resistance divided by force of effort-->F<sub>resistance</sub>/F<sub>effort</sub>
 
-Ideal Effort Force=Multiply load force by the load distance, then divide by effort distance-->(F<sub>resistance</sub>*D<sub>resistance</sub>)/D<sub>effort</sub>
+Ideal Effort Force=Multiply the load force by the load distance, then divide by effort distance-->(F<sub>resistance</sub>*D<sub>resistance</sub>)/D<sub>effort</sub>
