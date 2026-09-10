@@ -16,9 +16,8 @@ AMA=Force of resistance divided by force of effort-->F<sub>load</sub>/F<sub>effo
 
 ## Second Class Levers:
 
-
 (_Formulas:_)
 
-IMA=
+IMA=Effort distance divided by load distance-->D<sub>effort</sub>/D<sub>load</sub>
 
-AMA= 
+AMA=Force of resistance divided by force of effort-->F<sub>resistance</sub>/F<sub>effort</sub>
