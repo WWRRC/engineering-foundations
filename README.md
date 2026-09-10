@@ -3,6 +3,8 @@
 ## Anchor Links:
 [First Class Lever](#first-class-levers)
 
+[Second Class Lever](#second-class-levers)
+
 ## First Class Levers:
 ![First Class Lever](download.png)
 
