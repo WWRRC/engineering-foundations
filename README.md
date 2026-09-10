@@ -26,4 +26,4 @@ IMA=Effort distance divided by load distance-->D<sub>effort</sub>/D<sub>load</su
 AMA=Force of resistance divided by force of effort-->F<sub>resistance</sub>/F<sub>effort</sub>
 
 ## Third Class Levers:
-![Third Class Lever](3rd%20class%20lever)
+![Third Class Lever](3rd%20class%20lever.png)
