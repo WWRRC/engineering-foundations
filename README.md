@@ -16,7 +16,7 @@ IMA=Length of effort arm divided by length of resistance arm-->D<sub>effort</sub
 
 AMA=Force of resistance divided by force of effort-->F<sub>load</sub>/F<sub>effort</sub>
 
-Ideal Effort Force=(Resistance force times the distance from fulcrum to the load) divided by length from fulcrum to where the effort is applied-->(F<sub>resistance</sub>*D<sub>resistance</sub>)/L<sub>effort</sub>
+Ideal Effort Force=(Resistance force times the distance from fulcrum to the load) divided by length from fulcrum to where the effort is applied-->(F<sub>resistance</sub>*D<sub>resistance</sub>)/D<sub>effort</sub>
 
 ## Second Class Levers:
 ![Second Class Lever](2nd%20class%20lever.png)
