@@ -12,3 +12,12 @@ Above is an image of a complicated first class lever mechanism. As you can see, 
 IMA=Length of effort arm divided by length of resistance arm-->D<sub>effort</sub>/D<sub>load</sub>
 
 AMA=Force of resistance divided by force of effort-->F<sub>load</sub>/F<sub>effort</sub>
+
+## Second Class Levers:
+
+
+(_Formulas:_)
+
+IMA=
+
+AMA=
