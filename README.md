@@ -17,7 +17,7 @@ IMA=Length of effort arm divided by length of resistance arm-->D<sub>effort</sub
 AMA=Force of resistance divided by force of effort-->F<sub>load</sub>/F<sub>effort</sub>
 
 ## Second Class Levers:
-![Second Class Lever](2nd-class-lever.png)
+![Second Class Lever](download.png)
 
 (_Formulas:_)
 
