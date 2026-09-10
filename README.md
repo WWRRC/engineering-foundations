@@ -1,7 +1,7 @@
-## About this project
+## About This Project
 This website acts as a personal and public hub for those in engineering programs in middle or high school. I will be sharing my knowledge as I go through the next year of the program, Principles of Engineering, for reference.
 
-## Topics and references that will be available
+## Topics and References Available
 -Formulas
 
 -Simple and complex machines
@@ -14,5 +14,10 @@ This website acts as a personal and public hub for those in engineering programs
 
 -etc.
 
-## Principles of Engineering (POE) breakdown
-Principles of Engineering, or POE, is the engineering class offered to many schools through the Project Lead the Way (PLTW) program. It focuses on structural and mechanical aspects of engineering, teaching the basic guidelines of simple and complex machines. Thus, _formulas_.
+## Anchor Links:
+[formulas](#simple-machine-formulas)
+
+# Simple Machine Formulas
+## First Class Levers:
+IMA=Length of effort arm divided by length of resistance arm
+     -$D_{effort}/D_{load}$
