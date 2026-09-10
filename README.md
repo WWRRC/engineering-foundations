@@ -19,4 +19,4 @@ This website acts as a personal and public hub for those in engineering programs
 
 # Simple Machine Formulas
 ## First Class Levers:
-IMA=Length of effort arm divided by length of resistance arm--D<sub>effort</sub>/D<sub>load</sub>
+IMA=Length of effort arm divided by length of resistance arm-->D<sub>effort</sub>/D<sub>load</sub>
