@@ -8,6 +8,8 @@ To search internally: ctrl+f (windows), cmd+f (mac)
 
 [Third Class Lever](#third-class-levers)
 
+[Wheel And Axle](#wheel-and-axle)
+
 ## First Class Levers:
 ![First Class Lever](1st%20class%20lever.png)
 
@@ -40,3 +42,5 @@ IMA = Effort distance divided by resistance distance &rarr; D<sub>effort</sub>/D
 AMA = Force of resistance divided by force of effort &rarr; F<sub>resistance</sub>/F<sub>effort</sub>
 
 Ideal Effort Force = Multiply the load force by the load distance, then divide by effort distance &rarr; (F<sub>resistance</sub>&middot;D<sub>resistance</sub>)/D<sub>effort</sub>
+
+## Wheel And Axle
